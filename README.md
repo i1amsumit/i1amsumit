@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sumitkumarsingh2205@gmail.com**
 
-- 📄 Know about my experiences **Resume**
+- 📄 Know about my experiences **[Resume]([https://drive.google.com/file/d/FILE_ID/view?usp=sharing](https://drive.google.com/drive/folders/1842n3uJKEAwVkzm7ZoQjcdMQIrZmRsi4?usp=drive_link))**
 
 ---
 
