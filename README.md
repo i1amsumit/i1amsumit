@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar Singh</h1>
 <h3 align="center">A passionate Finance Student, Data Analyst & Business Analytics Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXRxOGE3bTd2Y3p0dXl2eDk5YWhjM2VjMG1mM2FvNjQ1NXA2dGZuZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif">
+<img align="right" alt="Coding" width="400" src=>
 
 - 🎓 B.Com (Hons) student at **University of Delhi**
 
