@@ -28,11 +28,6 @@
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="https://www.instagram.com/YOUR-INSTAGRAM/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="45"/>
-</a>
-</p>
-
 ---
 
 ### 🛠️ Languages and Tools
@@ -53,18 +48,6 @@
 
 <a href="https://www.microsoft.com/microsoft-365/excel">
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
-</a>
-
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" width="50"/>
-</a>
-
-<a href="https://github.com/">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-</a>
-
-<a href="https://code.visualstudio.com/">
-<img src="https://skillicons.dev/icons?i=vscode" width="50"/>
 </a>
 
 </p>
