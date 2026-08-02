@@ -1,11 +1,12 @@
-# 💫 About Me:
-# Hi 👋, I'm Sumit Kumar Singh<br><br> A passionate Finance Student, Data Analyst & Business Analytics Enthusiast<br><br>📚 B.Com (Hons) student at the **University of Delhi**<br><br>💼 Experienced in **Finance, Accounting, SQL, Power BI, and Advanced Excel**<br><br>📊 Built an **end-to-end Ola Ride Analytics Dashboard** using **SQL & Power BI** to analyze bookings, revenue, cancellations, and customer trends<br><br>📈 Passionate about solving business problems through **data-driven insights** and **financial analysis**<br><br>🌱 I'm currently learning **Advanced SQL, Power BI, PostgreSQL, and Data Analytics**<br><br>🔭 I'm currently working on **Data Analytics & Business Intelligence Projects**<br><br>
+<h6>💫 About Me</h6>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/i1amsumit)
-
-# 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<small>
+Hi 👋, I'm <b>Sumit Kumar Singh</b><br>
+A passionate Finance Student, Data Analyst & Business Analytics Enthusiast<br>
+📚 B.Com (Hons) student at the <b>University of Delhi</b><br>
+💼 Experienced in <b>Finance, Accounting, SQL, Power BI, and Advanced Excel</b><br>
+📊 Built an end-to-end Ola Ride Analytics Dashboard using SQL & Power BI<br>
+📈 Passionate about solving business problems through data-driven insights<br>
+🌱 Currently learning Advanced SQL, Power BI, PostgreSQL, and Data Analytics<br>
+🔭 Currently working on Data Analytics & Business Intelligence Projects
+</small>
