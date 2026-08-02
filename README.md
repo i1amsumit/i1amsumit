@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar Singh</h1>
 <h3 align="center">A passionate Finance Student, Data Analyst & Business Analytics Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src=>
-
 - 🎓 B.Com (Hons) student at **University of Delhi**
 
 - 💼 Experienced in **Finance, Accounting, Advanced Excel, SQL & Power BI**
