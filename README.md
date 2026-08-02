@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Advanced SQL, PostgreSQL, Power BI & Data Analytics**
 
-- 🔭 I’m currently working on **Business Analytics & Finance Projects**
+- 🔭 I’m currently working on **Business Analytics & SQL Projects**
 
 - 💡 Interested in **Finance, Data Analytics, Business Intelligence & Entrepreneurship**
 
-- 📫 How to reach me **your-email@example.com**
+- 📫 How to reach me **sumitkumarsingh2205@gmail.com**
 
 - 📄 Know about my experiences **Resume**
 
