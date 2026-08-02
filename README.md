@@ -1,34 +1,96 @@
-<sub>
+<h1 align="center">Hi 👋, I'm Sumit Kumar Singh</h1>
+<h3 align="center">A passionate Finance Student, Data Analyst & Business Analytics Enthusiast</h3>
 
-### 💫 About Me
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXRxOGE3bTd2Y3p0dXl2eDk5YWhjM2VjMG1mM2FvNjQ1NXA2dGZuZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif">
 
-Hi 👋, I'm **Sumit Kumar Singh**
+- 🎓 B.Com (Hons) student at **University of Delhi**
 
-A passionate Finance Student, Data Analyst & Business Analytics Enthusiast
+- 💼 Experienced in **Finance, Accounting, Advanced Excel, SQL & Power BI**
 
-📚 B.Com (Hons) student at the **University of Delhi**
+- 📊 Built an **Ola Ride Analytics Dashboard** using **SQL & Power BI** to analyze bookings, revenue, cancellations, and customer trends
 
-💼 Experienced in **Finance, Accounting, SQL, Power BI, and Advanced Excel**
+- 🌱 I’m currently learning **Advanced SQL, PostgreSQL, Power BI & Data Analytics**
 
-📊 Built an **end-to-end Ola Ride Analytics Dashboard** using **SQL & Power BI**
+- 🔭 I’m currently working on **Business Analytics & Finance Projects**
 
-📈 Passionate about solving business problems through **data-driven insights** and **financial analysis**
+- 💡 Interested in **Finance, Data Analytics, Business Intelligence & Entrepreneurship**
 
-🌱 Currently learning **Advanced SQL, Power BI, PostgreSQL, and Data Analytics**
+- 📫 How to reach me **your-email@example.com**
 
-🔭 Currently working on **Data Analytics & Business Intelligence Projects**
-
-</sub>
-
----
-
-<sub>### 🌐 Socials</sub>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/i1amsumit)
+- 📄 Know about my experiences **Resume**
 
 ---
 
-<sub>### 💻 Tech Stack</sub>
+### 🤝 Connect with me
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<p align="left">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://www.instagram.com/YOUR-INSTAGRAM/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="45"/>
+</a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+
+<a href="https://www.postgresql.org/">
+<img src="https://skillicons.dev/icons?i=postgres" width="50"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/>
+</a>
+
+<a href="https://powerbi.microsoft.com/">
+<img src="https://img.icons8.com/color/48/power-bi.png"/>
+</a>
+
+<a href="https://www.microsoft.com/microsoft-365/excel">
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
+</a>
+
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" width="50"/>
+</a>
+
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/>
+</a>
+
+</p>
+
+---
+
+### 📌 Featured Project
+
+🚖 **Ola Ride Analytics Dashboard**
+- Built using **SQL + Power BI**
+- Analyzed 100K+ ride records
+- Tracked booking status, cancellations, revenue, ride distance, payment methods, and customer ratings
+- Created an interactive dashboard with business KPIs
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
