@@ -22,7 +22,7 @@
 ### 🤝 Connect with me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="blank">
+<a href="https://www.linkedin.com/in/i1amsumit/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
