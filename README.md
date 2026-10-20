@@ -54,27 +54,41 @@
 
 ---
 
+
 ### 📌 Featured Projects
 
-#### 🚖 Ola Ride Analytics Dashboard
+#### 🏦 JPMorgan Chase & Co. | Q2 Financial Performance Dashboard
 
-**Tools:** SQL | Power BI
+**Tools:** Power BI | DAX | Power Query | Excel | Financial Analysis
 
-- Analyzed **100K+ ride records** to explore booking performance and customer behaviour.
-- Examined revenue, cancellations, ride distance, payment methods, and customer ratings.
-- Developed an interactive dashboard to track business KPIs and identify operational trends.
+- Developed an interactive Power BI dashboard to analyze JPMorgan Chase's quarterly financial performance, including revenue, net income, and business-segment contributions.
+- Evaluated financial performance across Consumer & Community Banking, Commercial & Investment Bank, Asset & Wealth Management, and Corporate.
+- Analyzed product-level revenue, segment profitability, and quarterly movements to identify key performance drivers and business trends.
+- Transformed financial-report data into interactive visualizations to support financial analysis and data-driven decision-making.
 
-🔗 [Explore My GitHub](https://github.com/i1amsumit)
+🔗 [View Project](YOUR_JPMORGAN_PROJECT_LINK)
+
+#### 🌏 Growth Opportunities in ASEAN Tourism
+
+**Tools:** Market Research | Excel | PowerPoint | SWOT | PESTEL | Strategic Analysis
+
+- Conducted market research on ASEAN tourism growth, visitor trends, competitive positioning, and emerging regional opportunities.
+- Compared key Southeast Asian destinations and evaluated opportunities in MICE, wellness, sustainable tourism, and digital travel.
+- Applied SWOT and PESTEL frameworks to assess industry challenges, market dynamics, and strategic growth opportunities.
+- Proposed an **ASEAN Multi-Country Travel Pass** to improve cross-border connectivity and enhance regional tourism experiences.
+
+🔗 [View Project](YOUR_ASEAN_TOURISM_PROJECT_LINK)
 
 #### 🔋 Future of EV Battery Chemistry
 
-**Tools:** Market Research | Data Analytics | Business Analysis
+**Tools:** Market Research | Data Analytics | Competitive Analysis
 
-- Researched global EV battery chemistries, regional demand, and competitive dynamics.
-- Examined emerging technologies and market developments to understand industry trends.
-- Synthesized research findings into structured business insights.
+- Researched global EV battery chemistries, regional demand, and competitive dynamics across the evolving electric-vehicle industry.
+- Examined emerging battery technologies and industry developments to understand market trends and competitive positioning.
+- Synthesized research findings into structured business insights on technology adoption and industry growth opportunities.
 
 🔗 [View Project](https://github.com/i1amsumit/Case_Study-EV_Battery)
+
 
 ---
 
