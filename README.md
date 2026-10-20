@@ -66,7 +66,7 @@
 - Analyzed product-level revenue, segment profitability, and quarterly movements to identify key performance drivers and business trends.
 - Transformed financial-report data into interactive visualizations to support financial analysis and data-driven decision-making.
 
-🔗 [View Project](YOUR_JPMORGAN_PROJECT_LINK)
+🔗 [View Project](https://github.com/i1amsumit/J.P.-Morgan-2Q26-Financial-Results-Dashboard)
 
 #### 🌏 Growth Opportunities in ASEAN Tourism
 
@@ -77,7 +77,7 @@
 - Applied SWOT and PESTEL frameworks to assess industry challenges, market dynamics, and strategic growth opportunities.
 - Proposed an **ASEAN Multi-Country Travel Pass** to improve cross-border connectivity and enhance regional tourism experiences.
 
-🔗 [View Project](YOUR_ASEAN_TOURISM_PROJECT_LINK)
+🔗 [View Project](https://github.com/i1amsumit/Growth-opportunities-in-the-tourism-industry-in-South-East-Asia)
 
 #### 🔋 Future of EV Battery Chemistry
 
